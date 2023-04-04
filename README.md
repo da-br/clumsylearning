@@ -1,2 +1,5 @@
 # clumsylearning
-A blog dedicated to learning by falling
+
+## Template
+Blog template is [chirpy](https://github.com/cotes2020/chirpy-starter)
+
